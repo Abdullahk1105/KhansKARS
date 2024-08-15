@@ -1,0 +1,35 @@
+{
+    "sportsCars": [
+      {
+        "name": "Ferrari LaFerrari",
+        "releaseDate": "2013",
+        "details": "The LaFerrari is Ferrari's most ambitious project, featuring a hybrid engine that produces 950 horsepower, a top speed of over 217 mph, and a 0-60 mph time of under 2.5 seconds.",
+        "imageUrl": "https://cdn.ferrari.com/cms/network/media/img/resize/5d9721371b6fa75346d60ad0-ferrari-laferrari-2013-engine-focuson-desktop-03?"
+      },
+      {
+        "name": "Lamborghini Aventador SVJ",
+        "releaseDate": "2018",
+        "details": "The Aventador SVJ is a track-focused version of the Aventador, boasting a naturally aspirated V12 engine with 759 horsepower, active aerodynamics, and a record-setting Nürburgring lap time.",
+        "imageUrl": "https://www.carpixel.net/wallpapers/16043/2018-lamborghini-aventador-svj-63.html"
+      },
+      {
+        "name": "Porsche 911 GT3 RS",
+        "releaseDate": "2022",
+        "details": "The 911 GT3 RS is the ultimate track-oriented version of the 911, equipped with a 4.0-liter flat-six engine producing 518 horsepower, advanced aerodynamics, and lightweight components.",
+        "imageUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1649697788/evo/2022/04/Porsche%20911%20GT3%20RS%204%20review%202022.jpg"
+      },
+      {
+        "name": "McLaren 720S",
+        "releaseDate": "2017",
+        "details": "The McLaren 720S features a twin-turbo V8 engine producing 710 horsepower, a lightweight carbon fiber chassis, and active aerodynamics for exceptional performance and handling.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwQSMNCDHuh_wjpK0YKOFIx9QER6kyG-wWQ&s"
+      },
+      {
+        "name": "Chevrolet Corvette C8",
+        "releaseDate": "2020",
+        "details": "The C8 Corvette is the first mid-engine Corvette, featuring a 6.2-liter V8 engine with 495 horsepower, a top speed of 194 mph, and a striking new design.",
+        "imageUrl": "https://cdn.motor1.com/images/mgl/P1j3K/s1/2020-chevrolet-corvette-first-drive.jpg"
+      }
+    ]
+  }
+  
